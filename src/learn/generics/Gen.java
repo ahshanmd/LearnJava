@@ -1,8 +1,6 @@
 package learn.generics;
 
-/**
- * Created by lowes on 10/8/2016.
- */
+
 public class Gen<T> {
     T ob;
 
